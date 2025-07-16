@@ -1,7 +1,9 @@
 using az_efficient_home.Components;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+var url = $"http://0.0.0.0:{port}";
+var target = Environment.GetEnvironmentVariable("TARGET") ?? "World";
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
