@@ -1,6 +1,7 @@
 using az_efficient_home.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
