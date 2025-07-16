@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7VuQ67GOzor5Q3aHT11pRgkOHo1y230tsjJWMFXR+B7jPI9PdDgXtp2Ew9XAEDUaHqoKO3/RzbbCw+Ny5VRIw==",
+  "success": true,
+  "projectFilePath": "/home/david/Desktop/az-efficient-home/az-efficient-home.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
