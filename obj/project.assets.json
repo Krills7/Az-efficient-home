@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/david/Desktop/az-efficient-home/az-efficient-home.csproj",
-      "projectName": "az-efficient-home",
-      "projectPath": "/home/david/Desktop/az-efficient-home/az-efficient-home.csproj",
+      "projectUniqueName": "/home/david/Desktop/Ref/az-efficient-home-1/az-efficient-home-1.csproj",
+      "projectName": "az-efficient-home-1",
+      "projectPath": "/home/david/Desktop/Ref/az-efficient-home-1/az-efficient-home-1.csproj",
       "packagesPath": "/home/david/.nuget/packages/",
-      "outputPath": "/home/david/Desktop/az-efficient-home/obj/",
+      "outputPath": "/home/david/Desktop/Ref/az-efficient-home-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/david/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x7VuQ67GOzor5Q3aHT11pRgkOHo1y230tsjJWMFXR+B7jPI9PdDgXtp2Ew9XAEDUaHqoKO3/RzbbCw+Ny5VRIw==",
+  "dgSpecHash": "7ajWcIvsNlhxkUq/QbCv2MNoGjZlbR5DbV1v8dCpCjjCMj1nbTEQ4P7CABee6ZML+OFyf0nzD1Zz/9Ud7QwjAw==",
   "success": true,
-  "projectFilePath": "/home/david/Desktop/az-efficient-home/az-efficient-home.csproj",
+  "projectFilePath": "/home/david/Desktop/Ref/az-efficient-home-1/az-efficient-home-1.csproj",
   "expectedPackageFiles": [
     "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
   ],
